@@ -1,3 +1,7 @@
 {
-  "name": "portfolio-page"
+    "name": "portfolio-page",
+    "private": true,
+    "workspaces": [
+        "nest-backend"
+    ]
 }
